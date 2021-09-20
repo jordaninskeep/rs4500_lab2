@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Inskeep"
+  given-names: "Jordan"
+title: "rs4500_lab2"
+version: 2.1.0
+date-released: 2021-02-15
+url: "https://github.com/jordaninskeep/rs4500_lab2"
